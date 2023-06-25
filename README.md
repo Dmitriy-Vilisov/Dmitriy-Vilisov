@@ -98,11 +98,11 @@
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&layout=compact&theme=dark" />  
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitriy-Vilisov&layout=compact&theme=dark" />  
    <br>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BaggerFast&show_icons=true&theme=dark" />
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dmitriy-Vilisov&show_icons=true&theme=dark" />
    <br>
-   <img src="https://metrics.lecoq.io/baggerfast" />
+   <img src="https://metrics.lecoq.io/Dmitriy-Vilisov" />
   </p>
 </details>
 
