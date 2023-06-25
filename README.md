@@ -81,7 +81,7 @@
 
 ![codewars](https://www.codewars.com/users/DmitriyViL/badges/large)
 
-### ⚙️ GitHub статистика:
+<h2 align="center">⚙️ GitHub статистика:</h3>
 
 <table>
   <tr>
@@ -96,6 +96,7 @@
 
 <h2 align="center">Support</h3>
 Пожалуйста, нажмите кнопку "звездочка", если нашли что-то полезное!
+
 
 <!-- <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
