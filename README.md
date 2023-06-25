@@ -94,6 +94,9 @@
   </tr>
 </table>
 
+<h2 align="center">Support</h3>
+Пожалуйста, нажмите кнопку "звездочка", если нашли что-то полезное!
+
 <!-- <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
