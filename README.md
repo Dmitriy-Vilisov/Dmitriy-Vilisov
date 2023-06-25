@@ -69,14 +69,13 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
 | skillfactory.ru/Алгоритмы и структуры данных без поддержки      | 01/2023 - xx/2023 |
 | skillfactory.ru/Профессия Python-разработчик                    | 01/2023 - xx/2023 |
 
---- -->
 
 ### 💻 Codewars:
 
@@ -95,7 +94,7 @@
   </tr>
 </table>
 
-<details align="left">
+<!-- <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitriy-Vilisov&layout=compact&theme=dark" />  
@@ -104,6 +103,6 @@
    <br>
    <img src="https://metrics.lecoq.io/Dmitriy-Vilisov" />
   </p>
-</details>
+</details>-->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dmitriy-Vilisov)
