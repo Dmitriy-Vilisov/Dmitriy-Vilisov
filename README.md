@@ -1,4 +1,4 @@
-##### 👋Привет, меня зовут Дмитрий!
+<h2 align="center">👋Привет, меня зовут Дмитрий!</h3>
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-<h2 align="center">🤝 Социальные сети:</h3>
+<h2>🤝 Социальные сети:</h3>
 
   <div id="badges">
     <!-- <a href="https://t.me/tehnomaniak07" target="_blank">
@@ -39,7 +39,7 @@
 
 ---
 
-<h2 align="center">💻 Технологии:</h3>
+<h2>💻 Технологии:</h3>
 
 <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -58,7 +58,7 @@
 
 ---
 
-<h2 align="center">🛠 Инструменты:</h3>
+<h2>🛠 Инструменты:</h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
@@ -69,7 +69,7 @@
 
 ---
 
-<h2 align="center">💻 Пройденные курсы:</h3>
+<h2>💻 Пройденные курсы:</h3>
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
@@ -77,7 +77,7 @@
 | skillfactory.ru/Профессия Python-разработчик                    | 01/2023 - xx/2023 |
 
 
-<h2 align="center">💻 Codewars:</h3>
+<h2>💻 Codewars:</h3>
 
 ![codewars](https://www.codewars.com/users/DmitriyViL/badges/large)
 
